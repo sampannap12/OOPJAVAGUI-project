@@ -99,4 +99,4 @@ Your project will need to have a GUI that allows query parameters to be put in.
 **Extras**
 - Ability to see the results through the GUI too.
 - Flexible queries – not just one or two hardcoded
-- Whatever else you decide might enhance the application
+
